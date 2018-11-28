@@ -10,13 +10,14 @@ h1 {
 .content {
   background-color: green;
   height: 600px;
-  width: 100%;
-  margin-top: 10px
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 10px;
 }
 .column {
   background-color: red;
-  height: 500px;
-  width: 250px;
+  height: 600px;
+  width: 300px;
   float: left;
-
+  margin: 0px 16.6px;
 }
