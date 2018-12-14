@@ -1,23 +1,88 @@
-h1 {
-  color: blue;
-}
 .header {
-  background-color: blue;
+  background-color:  silver;
   height: 200px;
-  width: 80%;
+  width: 1000px;
   margin: 0 auto;
 }
-.content {
-  background-color: green;
-  height: 600px;
+
+.logo {
   width: 1000px;
+  height: 175px;
+  background-image: url('../images/logo.png');
+}
+
+nav {
+  background-color: yellow;
+  width: 1000px;
+  height: 35px;
+  text-align: center;
+}
+
+.line1 {
+  background-color: silver;
+  width: 1020px;
+  height: 25;
+  margin: 0px auto;
+}
+
+.line2 {
+  background-color: red;
+  width: 1020px;
+  height: 25;
+  margin: 0px auto;
+}
+
+.content {
+  background-color: orange;
+  height: 700px;
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 10px
+}
+
+.column {
+  background-color: orange;
+  height: 600px;
+  width: 300px;
+  margin: 0px 16.6px;
+  float: left;
+}
+
+.story {
+  background-color: gold;
+  width: 300px;
+  height: 315px;
+  margin: 10px 0px;
+
+}
+img {
+  width: 150px;
+  height: 95px;
+}
+.contect2 {
+  background-color: orange;
+  width: 1400px;
+  height: 500px;
   margin: 0 auto;
   margin-top: 10px;
 }
-.column {
+.side-article {
   background-color: red;
-  height: 600px;
-  width: 300px;
-  float: left;
-  margin: 0px 16.6px;
+  width: 200px;
+  height: 490px;
+  margin: 5px;
+  float: right;
+}
+.middle-article {
+  background-color: grey;
+  width: 970px;
+  height: 490px;
+  margin: 5px;
+  float: right;
+}
+.contect3 {
+  background-color: blue;
+  width: 1400px;
+  height: 500px;
+  margin: 0 auto;
 }
